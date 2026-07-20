@@ -1,0 +1,59 @@
+# ABC Technologies - Frequently Asked Questions (FAQ)
+
+## Q: How do I reset my password?
+**A**: To reset your password, click the "Forgot Password?" link on the login page. Enter your
+registered email address or mobile number, and we will send you a password reset link via email
+and an OTP to your registered mobile number. Follow the instructions to set a new password.
+Your new password must be at least 12 characters long and include uppercase, lowercase, a digit,
+and a special character (e.g., !, @, #, $).
+
+## Q: What should I do if I forget my username or login email?
+**A**: Please contact Account Support. To verify your identity, you will need to provide your
+full name, registered mobile number, company name, and GSTIN (if applicable). Our team will
+help you recover your login credentials within 1–2 business hours (IST).
+
+## Q: Can I get a refund for my subscription?
+**A**: We offer a full refund if requested within 30 days of the purchase date. Please submit a
+refund request through the support portal or by contacting Billing Support. All refund requests
+are reviewed and approved by a human supervisor before processing. Approved refunds are credited
+back to your original payment method (UPI, net banking, or card) within 5–7 business days.
+Annual plan refunds after 30 days are considered on a case-by-case basis.
+
+## Q: How do I change my subscription plan?
+**A**: Go to Settings > Billing > Change Plan and select the plan you wish to upgrade or downgrade
+to. Upgrades take effect immediately with pro-rated billing for the remaining cycle. Downgrades
+take effect from the next billing cycle. All prices are in INR and inclusive of applicable GST.
+
+## Q: How can I update my profile details?
+**A**: Log in to your dashboard and click on your profile icon (top-right corner) > Settings >
+Profile. You can update your name, contact details, profile picture, mobile number, and
+notification preferences. To update your company's GSTIN or billing address, go to Settings >
+Company Profile > Tax Details.
+
+## Q: My account is deactivated. How do I reactivate it?
+**A**: If your account was deactivated due to a missed payment, simply update your payment method
+in Settings > Billing > Payment Methods and complete the pending payment — your account will
+be reactivated automatically within 15 minutes. If your account was deactivated for security
+reasons or by request, please contact Account Support. Identity verification via Aadhaar-linked
+mobile OTP may be required.
+
+## Q: Do you provide GST-compliant invoices?
+**A**: Yes. All invoices issued by ABC Technologies Pvt. Ltd. are GST-compliant and include our
+GSTIN (27AABCA1234B1ZX). You can download tax invoices from Settings > Billing > Invoice History.
+For B2B customers, ensure your company GSTIN is updated in your account profile for proper ITC
+(Input Tax Credit) claims.
+
+## Q: Is my data stored in India?
+**A**: Yes. All customer data is stored exclusively on servers located in the AWS Mumbai region
+(ap-south-1) within India. This ensures compliance with India's data localisation requirements.
+Your data is never transferred outside India without your explicit written consent.
+
+## Q: What are your support working hours?
+**A**: Our support team operates Monday to Saturday, 9:00 AM to 8:00 PM IST.
+Enterprise plan customers enjoy 24/7 dedicated support, including Sundays and Indian public holidays.
+Response times: Starter — 24 hours | Growth — 4 hours | Enterprise — 1 hour.
+
+## Q: Can I pay using UPI or EMI?
+**A**: Yes. We accept UPI (PhonePe, Google Pay, Paytm, BHIM), net banking, credit/debit cards
+(Visa, Mastercard, RuPay), and NEFT/RTGS for annual Enterprise plans. EMI options (6 or 12 months,
+no-cost EMI on select credit cards) are available during checkout for plans above ₹6,999/month.

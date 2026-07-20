@@ -1,0 +1,63 @@
+# ABC Technologies - Company Policy Document
+
+ABC Technologies Pvt. Ltd. is registered under the Companies Act, 2013 (CIN: U72900MH2018PTC123456),
+headquartered in Bengaluru, Karnataka. All policies are governed by Indian law and are subject to
+the jurisdiction of courts in Bengaluru, Karnataka.
+
+## 1. Refund Policy
+- Customers are eligible for a full refund within 30 days of their initial purchase if they are
+  unsatisfied with the product.
+- Refund requests after 30 days are handled on a case-by-case basis and require human supervisor review.
+- All refund requests — regardless of the purchase date — must be reviewed and approved by a human
+  supervisor to prevent fraud and ensure proper processing per RBI guidelines.
+- Approved refunds will be credited back to the customer's original payment method within 5–7 business
+  days (excluding Indian bank holidays and public holidays).
+- For UPI or net banking refunds, processing may take up to 3 additional business days depending on
+  the customer's bank.
+- Refunds are processed in INR and are subject to applicable GST reversal as per Indian tax laws.
+
+## 2. Subscription Cancellation
+- Customers can cancel their subscription at any time through their account dashboard under
+  Settings > Billing > Cancel Subscription.
+- If a customer requests cancellation via customer support, the support executive must verify the
+  customer's identity using registered mobile number OTP or email confirmation.
+- Any request for immediate subscription cancellation with billing adjustments must be escalated
+  and approved by a human supervisor.
+- Upon cancellation, customers will retain access to their plan until the end of the current
+  billing cycle. No pro-rated refund is issued for the remaining days of the cycle.
+- Annual plan cancellations are eligible for a partial refund only if requested within 30 days
+  of renewal, subject to supervisor approval.
+
+## 3. Account Closure Policy
+- Account closure results in the permanent and irreversible deletion of all customer data,
+  including configuration history, documents, invoices, and stored files.
+- As per India's Personal Data Protection guidelines, customers have the right to request
+  data erasure, but this action cannot be undone.
+- Account closure requests cannot be processed automatically and must be routed to a human
+  supervisor for manual validation and final approval.
+- A mandatory 7-day cooling-off period applies after supervisor approval, during which the
+  customer may cancel the closure request.
+
+## 4. Compensation and Credits
+- In the event of system downtime, service outages, or SLA breach, customers may request
+  compensation or service credits.
+- Support agents are not authorised to issue compensation or credits on their own authority.
+- All compensation and service credit requests must be escalated to a human supervisor for approval.
+- Credits issued will appear as a balance adjustment in the customer's billing dashboard within
+  2 business days and will be auto-applied to the next invoice.
+
+## 5. Escalation to Management
+- If a customer is highly dissatisfied, demands to speak to a senior manager, or threatens
+  legal action or consumer court proceedings (under the Consumer Protection Act, 2019), the
+  support ticket must be escalated immediately.
+- Escalation to management requires a human supervisor's routing and approval.
+- Escalated cases will be acknowledged within 4 business hours (IST) and resolved within
+  5 business days.
+
+## 6. Data Privacy (IT Act & PDPB Compliance)
+- All customer data is stored on servers located within India (AWS Mumbai region) in compliance
+  with data localisation requirements.
+- ABC Technologies does not share customer data with third parties without explicit written consent,
+  except as required by Indian law enforcement agencies under valid court orders.
+- Customers may request a copy of their stored data at any time by submitting a Data Access Request
+  via the support portal.

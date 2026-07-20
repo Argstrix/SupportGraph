@@ -1,0 +1,22 @@
+# Python bytecode caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases and RAG vector store directories (auto-generated on run)
+memory.db
+memory.db-shm
+memory.db-wal
+memory_fallback.db
+chroma_db/
+.kb_fingerprint
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# System specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,53 @@
+# ABC Technologies - Pricing Guide & Product Information
+
+ABC Technologies offers cloud-based business management software tailored for Indian businesses,
+from small startups to large enterprises. All pricing is in Indian Rupees (INR) with GST applicable
+as per Indian tax regulations.
+
+## 1. Starter Plan
+- **Price**: ₹2,499 per month (or ₹24,990 billed annually — save 17%). GST extra as applicable.
+- **Target**: Freelancers, small businesses, and startups with lean teams.
+- **User Limit**: Up to 5 users.
+- **Features**:
+  - Basic business management tools (task boards, scheduling, attendance tracking).
+  - 5 GB secure cloud storage hosted on AWS Mumbai (ap-south-1) region.
+  - Standard email support — response within 24 business hours (Mon–Fri, 9 AM–6 PM IST).
+  - Integration with popular Indian payment gateways: Razorpay, Paytm Business.
+  - GST-compliant invoice generation.
+
+## 2. Growth Plan
+- **Price**: ₹6,999 per month (or ₹69,990 billed annually — save 17%). GST extra as applicable.
+- **Target**: Growing SMEs (Small and Medium Enterprises) and mid-sized teams across India.
+- **User Limit**: Up to 25 users.
+- **Features**:
+  - Advanced business management, billing automations, and CRM integration.
+  - 50 GB secure cloud storage on AWS Mumbai region.
+  - Priority email and live chat support — response within 4 business hours (IST).
+  - Custom reports, exportable analytics, and workflow automations.
+  - Integration with Tally, Zoho Books, and Indian banking APIs.
+  - Automated TDS and GST filing report generation.
+
+## 3. Enterprise Plan
+- **Price**: ₹17,999 per month (or ₹1,79,990 billed annually — save 17%). GST extra as applicable.
+- **Target**: Large Indian corporations, listed companies, and businesses with complex compliance needs.
+- **User Limit**: Unlimited users.
+- **Features**:
+  - Full-suite business management, ERP integration (SAP, Oracle), and REST API access.
+  - 500 GB secure cloud storage with data residency guarantee (India region only).
+  - 24/7 dedicated phone and email support — response within 1 hour (including IST weekends).
+  - Dedicated account manager (India-based) and onboarding specialist.
+  - Custom Service Level Agreement (SLA) with Indian law jurisdiction.
+  - Enterprise security compliance: SSO/SAML, audit logs, RBI-compliant data handling.
+  - Advanced GST, TDS, PF, and ESI payroll compliance modules.
+
+## 4. Free Trial & Sandbox
+- A 14-day free trial is available for both the Starter and Growth plans. No credit/debit card required.
+- Sandbox testing environments are available on request for Enterprise accounts.
+- Trial accounts come pre-loaded with sample Indian business data for realistic testing.
+
+## 5. Payment Methods Accepted
+- UPI (PhonePe, Google Pay, Paytm)
+- Net banking (all major Indian banks)
+- Credit/Debit cards (Visa, Mastercard, RuPay)
+- NEFT / RTGS for Enterprise annual plans
+- EMI options available on select credit cards (6/12 month tenure)

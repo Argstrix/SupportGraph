@@ -1,0 +1,65 @@
+# ABC Technologies - Technical Manual & Troubleshooting Guide
+
+This manual outlines system specifications, supported environments, and troubleshooting
+procedures for common technical issues faced by Indian customers.
+
+## 1. File Uploads & Application Crashes
+- **Issue**: Application crashes, freezes, or displays an "Upload Failed" error when uploading a file.
+- **Root Causes**:
+  1. **File Size Exceeded**: The uploaded file exceeds the plan's size limit.
+     - Starter Plan : Maximum 50 MB per file.
+     - Growth Plan  : Maximum 200 MB per file.
+     - Enterprise Plan: Maximum 1 GB per file.
+  2. **Unsupported Format**: Only these file types are accepted: PDF, DOCX, XLSX, CSV, PNG, JPG.
+  3. **Browser Cache / Memory Leak**: Stale session cookies or overloaded browser memory.
+  4. **Slow Internet**: Inconsistent internet connection (common with mobile hotspots in India).
+
+- **Solution Steps**:
+  1. Check the file size and confirm it is within your plan's allowed limit.
+  2. Confirm the file extension is one of the supported formats. Convert the file if necessary.
+  3. Clear browser cache and cookies (Ctrl+Shift+Delete), or try in an incognito/private window.
+  4. Switch from mobile hotspot to a stable broadband connection (BSNL, Jio Fiber, ACT, Airtel Xstream).
+  5. If the crash persists, press F12 > Console tab > capture the error logs and share them with
+     our Technical Support team.
+
+## 2. Browser Compatibility & Client Requirements
+- **Supported Web Browsers** (Modern HTML5 browsers):
+  - Google Chrome  (version 90 and above) — Recommended
+  - Mozilla Firefox (version 88 and above)
+  - Apple Safari   (version 14 and above)
+  - Microsoft Edge (version 90 and above)
+- **Note**: Browsers like UC Browser and older versions of Opera are NOT supported.
+- **Desktop Client System Requirements**:
+  - Windows: Windows 10 or Windows 11 (64-bit).
+  - macOS  : macOS Catalina (10.15) or newer.
+  - Network: Outbound HTTPS traffic on port 443 and WebSocket traffic on port 8080 must be
+    allowed in firewall settings (applicable for corporate networks with IT-managed firewalls).
+
+## 3. Account and Login Issues
+- **Password Complexity Rules**: Passwords must be at least 12 characters long and must contain:
+  - At least one uppercase letter (A–Z)
+  - At least one lowercase letter (a–z)
+  - At least one digit (0–9)
+  - At least one special character (e.g., !, @, #, $, %, ^, &, *)
+- **2FA Lockout Recovery**: If you cannot access your authenticator app (Google Authenticator /
+  Microsoft Authenticator / Ente Auth), use the 16-character backup recovery code generated
+  during 2FA setup. If backup codes are lost, contact Account Support for identity verification
+  via registered mobile OTP.
+- **Session Expiry**: For security, sessions automatically expire after 2 hours of idle inactivity.
+  Enable "Stay Logged In" (persistent cookies) in browser preferences if needed.
+
+## 4. GST Invoice & Billing Issues
+- **GST Invoice Download**: Log in > Settings > Billing > Invoice History > Download PDF.
+- **GSTIN Update**: Your company's GSTIN can be updated under Settings > Company Profile > Tax Details.
+  This is required for B2B GST-compliant invoices.
+- **TDS Deduction**: If your organisation deducts TDS (Section 194J) on software subscriptions,
+  please email the TDS certificate to billing@abctechnologies.in after each quarter.
+  TDS credit will be adjusted in the next invoice cycle.
+
+## 5. UPI / Net Banking Payment Failures
+- **UPI Failure**: If a UPI payment fails, wait 5–10 minutes before retrying — the amount will be
+  auto-refunded to your UPI-linked bank account within 2–3 business days if debited.
+- **Net Banking Timeout**: For NEFT/RTGS payments that do not reflect within 24 hours, share the
+  UTR number with our Billing Support team for manual reconciliation.
+- **VPA (UPI ID) Changes**: If your UPI VPA has changed, update it under Settings > Billing >
+  Payment Methods before the next billing cycle.
